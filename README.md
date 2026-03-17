@@ -1,6 +1,8 @@
 # Game QA Portfolio: Bug Reporting & Analysis
 Candidate: Sivanesh A
+
 Role: Junior QA Tester / Intern
+
 Focus: Functional, Logic, and Visual Regression Testing
 
 ## 📌 Overview
